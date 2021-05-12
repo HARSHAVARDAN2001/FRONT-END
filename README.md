@@ -19,7 +19,7 @@ this is my first project on webdesigning using reactjs
    1. whole numbers
    2. integers
    3. naturl numbers(space must be given after dot)
-![github](https://lp-cms-production.imgix.net/2020-11/Getty_494057771.jpg)
+![github](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
 
 [Google](https://google.com)
 ~~~python
