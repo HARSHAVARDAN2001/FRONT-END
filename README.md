@@ -27,3 +27,7 @@ def fun():
 print('hi')
 ~~~
 
+Table1|Table2
+------|------
+BODY1 |BODY2
+
